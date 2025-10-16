@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-guard-290410",
+  "private_key_id": "cd61bb8b6c8b55e4a94037de05b514133719d922",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCzjKmZtOXYC7yR\nkGI0XTUfd05bnMSm5274T9vhZngi72nXeBXSygZGZy6prEOmmt5kMMCURlxKHWEU\nlexMV1bOgYfaCusd9URhD0lVr1AYG999v9XgfNNN/PaPdS2r9ATMExb+oXXDEPl1\nqH7+HSeefKMj8YB08VVIwokHekKHLQnYEtZpEITQVOuTEhdGq/otcMxezt6N4svD\nJ15Q5Zee7SZTHwqYLJGA/Qa7Yc5Ywcja1isdb4zRmzmYTuooXpCOB0q7xVteDKC+\nq1wX37X1ME0/jf3FIbHHi5dFRNvdFcAwOibqc4EUos36wrRqs8dqEwwwUbYkikr4\nT9OBB5a5AgMBAAECggEAB+x+AqDLYPK5pnHpB5cSdFpLTLs5KYV+rfo2QbcIN8B5\nmw77ZZNRXhOJKWdHEAf3JxRIt3J4ebPcuDAans7e75ujT3HaaPbNRvxJ9/xV7E50\nmUPZUEAqAh/XEMMy2gsZmBkCk4e0HwD1hWYDfrryJ+ont/sdOGv7H8woCHqyi20U\nLBYgkrX4hURBjKC5H4AVgeyNWyJROhKknRWFs0mFeQVwnzign64zjTN3era8pj6V\nJyc7OPXQqA+PrRrZTqhl/qD4TheGyB6a08HjVBO4pEqz49++LTNPHdn8Yd8DnCsn\nlaKyAh9I1dEAHgqNKZiJvss+1o3BY+WtYawQhSycJQKBgQDpFGDyc+pPVlbAGvtk\nUDlAKjqbeMDSLy6wFtEVI48LJDeCanI9Jli8YLhVAmsxg702wvCreTZRriHP1+wl\ne4R/wPVgVgD1Ma6RboSQGRVXvbUjOAvjcFr4lWJwKfIhKPe8fv+P/BI+VdLwBOHr\nkYq4kUcCPmxXlBx38XUPZIYbFQKBgQDFNLLfQjexFdELdcNi/nwFDFhl/VcmVf8g\nw8I5QwEF03kbc+ey+Wv8p80kayn2QN8u6pxJp3NwkRmIfq9tgxPwcoZhtO8vFWLp\nHCz8MYDzIz9m9pzZ69iY1JgVFcGMauThH+k2ObM/xXFdIIEEq20MsXQ+t1CKbkHa\nbk7mQYlmFQKBgCmjll46DxX1WrIfH+If4tpvsOCtheUGwNR8fwXDwH5BDhmiYp5C\nB4A/1y54rCXAX0E1OkGn+ehFr4yuCmX31wfrtOps8uba5VDd6ZjEomd2YLHWBWmw\nXNAj/94B4FvEMd3e4lEauzefpXtzo9itu5aVfZYNCNXsg9l5rWv+jWaxAoGAMVJf\n1lTSZvjk4q/eYTjyvbR7u25kSJNDjudHAVlPvSxJ4uLXNT0KlBNHzG78/Lj22N4W\nnplB1wqDT08YAxTAfOe30mIVXDpGFbVVTvH2pVjQd6kAS8Sf1IF/U+6wDLWDbwaz\nJjvCKBXyp28Eta1GReFwCGuCukyfLcle9Fm5yo0CgYBdxSApKsmHX/1I8t655Zfz\n8z8JioFRULmje1mwPMZzhKlL5FS7oG5aWsVy1fUXK9KjSJCsxM1ry+bf1gvh35tX\nFZhqC0Qw78zpBOK5LELSLKxaC2joZ7dGHRgaJq5y4D97qOEvg1BruaUeqhOP8lak\nefPGOLnVIZRtwDNXKIiP2Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adk-assistant-handbook@ultra-guard-290410.iam.gserviceaccount.com",
+  "client_id": "105162250470391239302",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adk-assistant-handbook%40ultra-guard-290410.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

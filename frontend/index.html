@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Employee Handbook Voice Assistant</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>Employee Handbook Voice Chat Assistant</h2>
+
+    <div id="user-info">
+      <input type="text" id="name" placeholder="Enter your name" required />
+      <input type="email" id="email" placeholder="Enter your email" required />
+      <button id="start-btn">Start Chat</button>
+    </div>
+
+    <div id="chat-section" class="hidden">
+      <p id="status">Click mic to ask your question 🎤</p>
+      <button id="mic-btn" class="mic">🎙️</button>
+      <audio id="response-audio" controls class="hidden"></audio>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
