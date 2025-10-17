@@ -4,7 +4,7 @@
 https://github.com/user-attachments/assets/8ae91097-b6ad-43d5-bef2-896ee7eaf251
 
 
-## Voice-Based HR Assistant (ADK Assignment 17)
+## Voice-Based HR Assistant
 
 This project is an AI-powered **voice-enabled HR assistant** that allows employees to ask company-related questions verbally and receive AI-generated voice responses based on the **Employee Handbook**.
 
@@ -127,4 +127,5 @@ Voice-HR-Assistant
 ## Author
 
 **Manas Khudale**
+
 
