@@ -48,8 +48,7 @@ It integrates **FastAPI**, **ChromaDB**, and **Google’s Gemini 2.5 Flash model
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/voice-hr-assistant.git
-cd voice-hr-assistant
+git clone https://github.com/manaskhudale-BS/Google-ADK-Assignment-ManasKhudale.git
 ````
 
 ### 2. Install Dependencies
@@ -127,5 +126,6 @@ Voice-HR-Assistant
 ## Author
 
 **Manas Khudale**
+
 
 
